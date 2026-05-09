@@ -1,0 +1,17 @@
+# UAV Metaheuristic Optimization — IEEE COMST Simulation
+# Python 3.8+ required
+# Install with: pip install -r requirements.txt
+
+# ── Core scientific computing ──────────────────────────────────────────────────
+numpy>=1.21.0
+scipy>=1.7.0
+
+# ── Plotting (IEEE-style greyscale figures) ────────────────────────────────────
+matplotlib>=3.4.0
+
+# ── Standard library (no install needed, listed for reference) ────────────────
+# os       — output directory creation
+# csv      — results table export
+# time     — runtime measurement
+# warnings — suppress non-critical warnings
+# itertools — pairwise algorithm combinations
