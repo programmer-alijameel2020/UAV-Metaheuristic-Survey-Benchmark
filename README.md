@@ -16,7 +16,6 @@ This repository provides the complete open-source simulation code that supports 
 
 The simulation environment is built on:
 - **ITU-R probabilistic air-to-ground channel model** (path loss and LoS probability)
-- **Zeng et al. (2019) rotary-wing UAV energy consumption model**
 
 ---
 
